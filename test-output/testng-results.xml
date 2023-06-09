@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-09T10:37:13 IST" name="Default suite" finished-at="2023-06-09T10:37:33 IST" duration-ms="19223">
+    <groups>
+    </groups>
+    <test started-at="2023-06-09T10:37:13 IST" name="Default test" finished-at="2023-06-09T10:37:33 IST" duration-ms="19223">
+      <class name="jobportal_Base.SignUp">
+        <test-method signature="signup()[pri:0, instance:jobportal_Base.SignUp@2fb3536e]" started-at="2023-06-09T10:37:13 IST" name="signup" finished-at="2023-06-09T10:37:33 IST" duration-ms="19150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+      </class> <!-- jobportal_Base.SignUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
